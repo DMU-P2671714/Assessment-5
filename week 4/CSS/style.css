@@ -1,0 +1,19 @@
+h1{
+  font-family: monospace;
+  color: red;
+  font-size: 500%;
+}
+
+p{
+  font-family: fantasy;
+  color: yellow;
+  background-color: black;
+}
+
+img{
+  width: 100%;
+}
+
+a{
+  font-size: 400%;
+}
